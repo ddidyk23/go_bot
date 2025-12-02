@@ -9,7 +9,7 @@ https://t.me/ddidyk23_go_bot
 Curently it has 2 options:
 
 1) /start hello
-Output: "Hello I'm Go_bot v1.0.6!"
+Output: "Hello I'm Go_bot $version!"
 
 2) /start What time is it?
 Output: "It is: ..."
